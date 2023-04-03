@@ -1,0 +1,23 @@
+h1 {
+    background-color: black;
+    color: white;
+    font-size: 40px;
+    font-family: 'Times New Roman', Georgia, Times, serif;
+}
+.MyList li {
+    margin-bottom: 10px;
+    font-size: 28px;
+    color: black;
+}
+.list1 {
+    background-color: red;
+    color: black;
+}
+.list2 {
+    background-color: white;
+    color: black;
+}
+.list3 {
+    background-color: blue;
+    color: black;
+}
